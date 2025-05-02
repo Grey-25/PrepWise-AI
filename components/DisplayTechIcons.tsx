@@ -22,7 +22,7 @@ const DisplayTechIcons = async ({ techStack }: TechIconProps) => {
             alt={tech}
             width={100}
             height={100}
-            className="size-5"
+            className="size-6"
           />
         </div>
       ))}
